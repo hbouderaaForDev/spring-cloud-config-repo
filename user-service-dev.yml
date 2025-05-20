@@ -1,5 +1,5 @@
-server:
-  port: 8081
+Ssubject:
+  name: RIDE HILLING APP
 
 eureka:
   client:
